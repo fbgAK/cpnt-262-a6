@@ -1,3 +1,5 @@
+Case notation is using steps which are numbered following the instructions for my assignment so that coding is easy to follow.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
